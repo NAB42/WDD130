@@ -1,0 +1,40 @@
+body{
+    font-family:monospace;
+    background-color:green
+}
+h1{
+    text-align:center;
+    background-color: grey;
+    margin-left:80px;
+    margin-right:80px;
+    font-size:48px;;
+}
+p{
+    margin-left:100px;
+    margin-right: 100px;
+}
+marquee{
+    font-size:32px;
+    margin-left:0px;
+    margin-right:0px;
+}
+img{
+    margin-left:100px;
+}
+header{
+    background-color:grey;
+}
+nav{
+    margin-left:75px;margin-right:75px;
+    text-align:center;
+}
+a{
+    background-color:grey;
+    padding: 5px 5px;
+    border-style:solid;
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:none;
+    background-color:green;
+}
