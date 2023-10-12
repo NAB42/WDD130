@@ -4,7 +4,7 @@
 }
 nav a{
     text-align:center;
-    color:green;
+    color:#006B00;
     padding:7px 35px;
     font-size:1.5em;
     text-decoration:none;
@@ -32,7 +32,7 @@ main section img{
 }
 body{
     background-color: #bfbfbf;
-    color:green;
+    color:#006B00;
     font-family:Arial, Helvetica, sans-serif;
     font-size:22px;
     margin: 0;
@@ -40,16 +40,16 @@ body{
 }
 header{
     background-color: #bfbfbf;
-    color:green;
+    color:#006B00;
 }
 nav a:hover{
     background-color: #bfbfbf;
-    color:green;
+    color:#006B00;
     text-decoration:none;
 }
 .book, .join{
     background-color: #bfbfbf;
-    color:green;
+    color:#006B00;
     padding:15px 30px;
     margin-top:50px;
     border-radius:5px;
@@ -58,7 +58,7 @@ nav a:hover{
 }
 .book:hover,.join:hover{
     background-color: #b7d9ff;
-    color:green;
+    color:#006B00;
     text-decoration:none;
 }
 .msg{
@@ -71,10 +71,10 @@ footer{
     padding:25px 50px;
 }
 footer a{
-    color:green;
+    color:#006B00;
 }
 footer a:hover{
-    color:green;
+    color:#006B00;
     text-decoration:none;
 }
 footer p a:hover{
@@ -84,21 +84,21 @@ footer .social img{
     padding-top:15px;
 }
 .home-title{
-    color:green;
+    color:#006B00;
     font-size:2em;
     margin-top:10px;
 }
 h4{
-    color:green;
+    color:#006B00;
 }
 h2{
     margin:0;
 }
 .msg h2{
-    color:green;
+    color:#006B00;
 }
 .msg p{
-    color:green;
+    color:#006B00;
     padding-bottom:15px;
 }
 #logo_link{
