@@ -31,7 +31,7 @@ main section img{
     background-color: #b7d9ff;
 }
 body{
-    background-color: #adadad;
+    background-color: #bfbfbf;
     color:green;
     font-family:Arial, Helvetica, sans-serif;
     font-size:22px;
@@ -39,16 +39,16 @@ body{
     padding: 0;
 }
 header{
-    background-color: #adadad;
+    background-color: #bfbfbf;
     color:green;
 }
 nav a:hover{
-    background-color: #adadad;
+    background-color: #bfbfbf;
     color:green;
     text-decoration:none;
 }
 .book, .join{
-    background-color: #adadad;
+    background-color: #bfbfbf;
     color:green;
     padding:15px 30px;
     margin-top:50px;
@@ -67,7 +67,7 @@ nav a:hover{
     padding:35px;
 }
 footer{
-    background-color: #adadad;
+    background-color: #bfbfbf;
     padding:25px 50px;
 }
 footer a{
@@ -106,6 +106,7 @@ h2{
 }
 .icon{
     padding-top:10px;
+    width:80px;
 }
 .rivers-card,.camping-card,.rapids-card{
     margin:200px;
