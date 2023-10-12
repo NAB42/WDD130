@@ -1,0 +1,11 @@
+body{
+    margin: 0 auto;
+}
+.lower-thingy{
+    background-color:grey;
+}
+.lower-thingy img{
+    margin:20px 100px;
+    border:10px solid #404040;
+    border-radius:50%
+}
