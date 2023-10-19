@@ -16,7 +16,7 @@ p.tart{
     grid-row:1;
 }
 p.tart{
-    font-size:8em;
+    font-size:7.8em;
     margin-top:50px;
 }
 p.cherr{
@@ -28,7 +28,7 @@ p.cherr{
     color:darkred;
 }
 p{
-    font-family: Merriwheather;
+    font-family: Georgia,Merriweather,Arial;
 }
 #cher{
     grid-column:1;
