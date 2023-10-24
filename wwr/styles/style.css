@@ -41,6 +41,12 @@ body{
 header{
     background-color: #bfbfbf;
     color:#006B00;
+    display:grid;
+    grid-template-columns: 150px auto;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
 }
 nav a:hover{
     background-color: #bfbfbf;
@@ -101,9 +107,11 @@ h2{
     color:#006B00;
     padding-bottom:15px;
 }
-#logo_link{
-    padding-top:5px;
-}
+#logo_link {
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}          
 .icon{
     padding-top:10px;
     width:80px;
