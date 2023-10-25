@@ -73,7 +73,7 @@
   width: 100%; 
   height: 100px; 
   background-color: red; 
-  grid-column: 1/5;
+  grid-column: 1/6;
 } 
 .green3 {
   width: 400px; 
@@ -85,13 +85,13 @@
   width: 400px; 
   height: 200px; 
   background-color: gold; 
-  ;
+  grid-column:4/6;
 } 
 .blue3 {
   width: 100%;
   height: 100px; 
   background-color: blue; 
-  grid-column: 1/5;
+  grid-column: 1/6;
 } 
 /* Activity 4 styles */ 
 .content4 {
