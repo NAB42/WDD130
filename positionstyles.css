@@ -68,6 +68,7 @@
   display:grid;
   grid-template-columns: 3fr 1fr 3fr;
   
+  
 }
 .red3 {
   width: 100%; 
