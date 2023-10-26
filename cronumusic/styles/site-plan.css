@@ -27,7 +27,9 @@ Fonts are separated by a | */
   --nav-hover-background-color: #FFFFFF;
 }
 
-
+.accent1{
+  color:#FFF
+}
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
 body {
