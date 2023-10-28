@@ -1,11 +1,19 @@
 body{
     font-family:Arial;
+    margin:0 auto;
+}
+header{
+    margin:5px;
 }
 .tittle{
     background-color: #008000;
     color:#FFF;
-    padding:5px;
+    padding:20px;
     text-align: center;
-    margin:0% 10%;
+    margin:0% 20%;
     margin-top:50px;
+}
+hr{
+    height:3px;
+    background:#000000;
 }
