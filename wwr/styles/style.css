@@ -1,6 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=Roboto&display=swap');
 #content{
     max-width:1600px;
     margin:0 auto;
+}
+.rivs2{
+    margin: 5% 30%;
+    background-color:#4A412A;
+    color:chartreuse;
+    padding:50px;
+    border-radius: 50%;
+    border:3px dotted yellow;
+    font-family:'Reenie Beanie',cursive;
+}
+.rivs{
+    margin: 5% 20%;
+    padding:50px;
+    border-radius: 10px;
+    background-color: #cccccc;
 }
 nav a{
     text-align:center;
