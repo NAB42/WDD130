@@ -14,7 +14,7 @@ form{
 label {
     /* Uniform size & alignment */
     display: block;
-    width: 90px;
+    width: 200px;
   }
   input,
   textarea {
