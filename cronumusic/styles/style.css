@@ -1,9 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body{
-    font-family:Arial;
+    font-family:'Roboto',Arial;
     margin:0 auto;
 }
 header{
     margin:5px;
+    background-color: #008000;
+    color:#FFF;
+    text-align: center;
+}
+header a{
+    color:#FFF;
+    text-decoration: none;
+    padding:10px;
+    font-size: 32px;
+    align-content: center;
+    ;
+}
+nav{
+    line-height: 3em;
+    display:flex;
+    align-content: center;
+}
+nav a:hover{
+    background-color: #FFF;
+    color:#000;
 }
 .tittle{
     background-color: #008000;
@@ -13,7 +34,26 @@ header{
     margin:0% 20%;
     margin-top:50px;
 }
-hr{
-    height:3px;
-    background:#000000;
+.card{
+    margin:32px 30%;
+    background-color: #008000;
+    border-radius: 5px;
+    padding:20px;
+    color:#FFF;
+    line-height: 1.5;
+    float:left;
+    font-size: 16px;
+}
+.card img{
+    float:left;
+    margin: 20px;
+}
+.card a{
+    text-decoration: none;
+    color:#FFF;
+}
+footer{
+    margin: 32px 0%;
+    justify-content: center;
+
 }
