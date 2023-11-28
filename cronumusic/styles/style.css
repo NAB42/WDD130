@@ -8,6 +8,7 @@ header{
     background-color: #008000;
     color:#FFF;
     text-align: center;
+    border-radius: 5px;
 }
 header a{
     color:#FFF;
@@ -33,6 +34,7 @@ nav a:hover{
     text-align: center;
     margin:0% 20%;
     margin-top:50px;
+    border-radius: 5px;;
 }
 .card{
     margin:32px 30%;
@@ -53,7 +55,20 @@ nav a:hover{
     color:#FFF;
 }
 footer{
-    margin: 32px 0%;
-    justify-content: center;
-
+    margin:32px 5px;
+    background-color: #008000;
+    border-radius: 5px;
+    padding:20px;
+    color:#FFF;
+    line-height: 1.5;
+    font-size: 16px;
+    display:flex;
+    justify-content: space-around;
+}
+footer a{
+    font-size:20px;
+    color:#FFF;
+}
+footer a:hover{
+    text-decoration: none;
 }
