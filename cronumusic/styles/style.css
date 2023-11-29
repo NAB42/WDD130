@@ -2,6 +2,7 @@
 body{
     font-family:'Roboto',Arial;
     margin:0 auto;
+    background-color: #FFF;
 }
 header{
     margin:5px;
@@ -37,7 +38,7 @@ nav a:hover{
     border-radius: 5px;;
 }
 .card{
-    margin:32px 30%;
+    margin:32px 20%;
     background-color: #008000;
     border-radius: 5px;
     padding:20px;
